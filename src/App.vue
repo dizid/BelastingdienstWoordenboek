@@ -90,7 +90,7 @@ const totalWords = ref(meetingWords.length)
           🏛️ Niet gelieerd aan de Belastingdienst
         </p>
         <p class="text-sm">
-          Gemaakt met ❤️ en veel te veel ☕ | {{ new Date().getFullYear() }}
+          Gemaakt met ❤️ door <a href="https://dizid.com" target="_blank" class="text-orange-400 hover:text-orange-300 underline">dizid</a> en veel te veel ☕ | {{ new Date().getFullYear() }}
         </p>
         <p class="text-xs mt-4 text-gray-600">
           Disclaimer: Dit is satire. Wij houden van de Belastingdienst.*<br>
